@@ -239,8 +239,8 @@ def logs_cargo(stdscr):
 +-------------------------------+-------------------------------+---------------------+
 | ITEM NAME                     | ROOM LOCATION                 | CONTACT             |
 +-------------------------------+-------------------------------+---------------------+
-| Cryogenic supplies            | Cryo pod                      | Miriam Harlow       |
-| Spare cryo pods               | Cryo pod                      | Miriam Harlow       |
+| Cryogenic supplies            | Cryo pod                      | Miriam Winters       |
+| Spare cryo pods               | Cryo pod                      | Miriam Winters       |
 | Emergency rations             | Cargo bay                     | Riley Banks         |
 | Atmospheric analyzer          | Cargo bay                     | Astrid Park         |
 | Energy cell replacement units | Cargo bay                     | Riley Banks         |
@@ -251,8 +251,8 @@ def logs_cargo(stdscr):
 | Spare energy cells            | Maintenance/workshop          | Santiago Morales    |
 | Spare parts kit               | Maintenance/workshop          | Santiago Morales    |
 | Field repair kit              | Maintenance/workshop          | Santiago Morales    |
-| Medical stasis pods           | Medbay/science lab            | Miriam Harlow       |
-| Medical supplies              | Medbay/science lab            | Miriam Harlow       |
+| Medical stasis pods           | Medbay/science lab            | Miriam Winters       |
+| Medical supplies              | Medbay/science lab            | Miriam Winters       |
 +-------------------------------+-------------------------------+---------------------+
     """
     menu = create_menu(
@@ -273,7 +273,7 @@ def logs_roster(stdscr):
 | Kyle Mendez              | Corporate representative | Tokugawa Enterprises     |
 | Riley Harris             | Flight commander         | Tokugawa Enterprises     |
 | Jaxon "Brick" Steele     | Security officer         | Tokugawa Enterprises     |
-| Miriam Harlow            | Chief medical officer    | Tokugawa Enterprises     |
+| Miriam Winters            | Chief medical officer    | Tokugawa Enterprises     |
 | Darwin GPP-7.3           | Corporate android        | Tokugawa Enterprises     |
 +--------------------------+--------------------------+--------------------------+
 | DISASTER RECOVERY UNIT   | Classified               | Classified               |
