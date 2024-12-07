@@ -211,17 +211,17 @@ def logs_system(stdscr):
 | 2115.09.17  | CRYO STATUS            | Attempt to wake Disaster Recovery Unit failed due to system malfunction.   |
 | 2114.09.17  | CRITICAL ERROR         | Navigation module damaged. Autonomous course recalibration required.       |
 | 2114.09.17  | COURSE UPDATE          | Unable to align with NC-2806. Entering deep space drift.                   |
-| 2224.07.05  | AUTONOMOUS DETECTION   | Celestial body proximity detected. Unknown planet in trajectory.           |
-| 2224.07.07  | AUTOPILOT              | Autopilot malfunction. Collision course with unidentified planetary body.  |
-| 2224.07.12  | IMPACT IMMINENT        | Safety protocols activated. Waking regular crew for emergency procedure.   |
-| 2224.07.13  | IMPACT                 | USCC Atlas collision with planetary surface confirmed. Integrity lost.     |
-| 2224.07.13  | SEVERE DAMAGE          | Ship split into two halves. Power loss across all major systems.           |
-| 2224.07.13  | EMERGENCY PROTOCOL     | Attempting partial system restoration. Crew survival probability 32%.      |
-| 2224.07.13  | DISASTER RECOVERY UNIT | Status: Still in cryo. Catastrophic failure detected. Power restore failed.|
-| 2224.08.10  | UNKNOWN PLANET LOG     | Hostile atmospheric conditions detected. Alien flora/fauna confirmed.      |
-| 2224.08.11  | IMMEDIATE THREAT       | Security alerts detected. Unauthorized lifeform signals within perimeter.  |
-| 2224.09.14  | LIFE SUPPORT OFFLINE   | Life support power terminated. Oxygen and environmental control ceased.    |
-| 2224.09.14  | FINAL ENTRY            | Disaster Recovery Unit power supply low. Waking Disaster Recovery Unit.    |
+| 2212.07.05  | AUTONOMOUS DETECTION   | Celestial body proximity detected. Unknown planet in trajectory.           |
+| 2212.07.07  | AUTOPILOT              | Autopilot malfunction. Collision course with unidentified planetary body.  |
+| 2212.07.12  | IMPACT IMMINENT        | Safety protocols activated. Waking regular crew for emergency procedure.   |
+| 2212.07.12  | IMPACT                 | USCC Atlas collision with planetary surface confirmed. Integrity lost.     |
+| 2212.07.12  | SEVERE DAMAGE          | Ship split into two halves. Power loss across all major systems.           |
+| 2212.07.12  | EMERGENCY PROTOCOL     | Attempting partial system restoration. Crew survival probability 32%.      |
+| 2212.07.12  | DISASTER RECOVERY UNIT | Status: Still in cryo. Catastrophic failure detected. Power restore failed.|
+| 2212.08.10  | UNKNOWN PLANET LOG     | Hostile atmospheric conditions detected. Alien flora/fauna confirmed.      |
+| 2212.08.11  | IMMEDIATE THREAT       | Security alerts detected. Unauthorized lifeform signals within perimeter.  |
+| 2212.09.14  | LIFE SUPPORT OFFLINE   | Life support power terminated. Oxygen and environmental control ceased.    |
+| 2212.09.14  | FINAL ENTRY            | Disaster Recovery Unit power supply low. Waking Disaster Recovery Unit.    |
 +-------------+------------------------+----------------------------------------------------------------------------+
                """
     menu = create_menu(
