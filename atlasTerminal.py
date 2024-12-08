@@ -203,7 +203,7 @@ def logs_system(stdscr):
 | DATE        | STATUS/LABEL           | DESCRIPTION                                                                |
 +-------------+------------------------+----------------------------------------------------------------------------+
 | 2108.04.22  | STATUS: INITIATE       | Tokugawa Enterprises confirms discovery of habitable planet NC-2806.       |
-| 2109.01.15  | MISSION PLAN: UPDATED  | Colonization mission launched: USCC Atlas en route to NC-2806.             |
+| 2110.01.15  | MISSION PLAN: UPDATED  | Colonization mission launched: USCC Atlas en route to NC-2806.             |
 | 2110.01.15  | DEPARTURE CONFIRMED    | USCC Atlas departure from Mother Earth confirmed. Navigation stable.       |
 | 2110.01.22  | CREW STATUS            | 1,200 colonists, main crew and Disaster Recovery Unit secured in cryo.     |
 | 2114.09.17  | NAV SYS                | Electromagnetic storm detected. Route alteration procedures commencing.    |
