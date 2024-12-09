@@ -25,7 +25,7 @@ To run the program, you’ll need the following:
 - **Sound Files**: Ensure the required sound files (e.g., `ABTH_terminal_UI.mp3`) are in a `sounds` directory.
 
 ## Gameplay Highlights
-Here are some cool things to discover while running the program:
+Here are some things to discover while running the program:
 
 - **Redirecting Power:** Start by rerouting DRU power. Once done, key systems like the computer will come online, unlocking new interactions.
 - **Computer Mode (C):** After redirecting DRU power, press C to enter Computer Mode, which offers a more advanced interface.
