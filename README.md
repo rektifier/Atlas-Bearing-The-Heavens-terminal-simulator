@@ -35,6 +35,6 @@ Here are some things to discover while running the program:
 - **Immersive Sound Design:** Every interaction is accompanied by retro-style sound effects, providing an engaging tactile experience.
 
 ## Remarks
-This terminal concept is inspired by several iterations of the console mechanic used in the Mothership RPG adventure Haunting of Ypsilon-14.
-[Tuesday Knight Games](https://www.tuesdayknightgames.com/)
+This terminal concept is inspired by several iterations of the console mechanic used in the Mothership RPG adventure Haunting of Ypsilon-14.  
+[Tuesday Knight Games](https://www.tuesdayknightgames.com/)  
 [TRAASH](https://www.traaa.sh/the-ypsilon-14-terminal)
