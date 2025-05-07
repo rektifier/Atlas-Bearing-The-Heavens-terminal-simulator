@@ -216,7 +216,7 @@ def logs_system(stdscr):
 | 2110.01.22  | CREW STATUS            | 1,200 colonists, main crew and Disaster Recovery Unit secured in cryo.     |
 | 2114.09.17  | NAV SYS                | Electromagnetic storm detected. Route alteration procedures commencing.    |
 | 2114.09.17  | ALERT                  | Severe EM interference. Navigation failure. Backup systems engaged.        |
-| 2115.09.17  | CRYO STATUS            | Attempt to wake Disaster Recovery Unit failed due to system malfunction.   |
+| 2114.09.17  | CRYO STATUS            | Attempt to wake Disaster Recovery Unit failed due to system malfunction.   |
 | 2114.09.17  | CRITICAL ERROR         | Navigation module damaged. Autonomous course recalibration required.       |
 | 2114.09.17  | COURSE UPDATE          | Unable to align with NC-2806. Entering deep space drift.                   |
 | 2212.07.05  | AUTONOMOUS DETECTION   | Celestial body proximity detected. Unknown planet in trajectory.           |
