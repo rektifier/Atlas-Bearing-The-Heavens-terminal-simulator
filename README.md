@@ -1,4 +1,6 @@
 # Atlas Bearing The Heavens - Terminal Simulator
+**Web version** -> [https://rektifier.github.io/Atlas-Bearing-The-Heavens-terminal-simulator/](https://rektifier.github.io/Atlas-Bearing-The-Heavens-terminal-simulator/)  
+  
 A console-based simulation program designed for use alongside the [Atlas Bearing the Heavens](https://www.drivethrurpg.com/en/product/504925/atlas-bearing-the-heavens-a-mothership-pamphlet) adventure module for the TTRPG Mothership. The program replicates interactions with a terminal or computer aboard the USCC Atlas, where the players can explore logs, diagnostics, and interact with the ship's systems through a retro-style interface, adding depth and immersion through interactive menus and sound effects.
 
 ## Features
